@@ -43,7 +43,6 @@ void merge(int arr[],int s,int e){
         index2++;
         k++;
     }
-
 }
 
 void mergesort(int arr[],int s,int e){
